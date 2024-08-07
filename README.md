@@ -30,7 +30,7 @@
 
 **하드웨어**
 
-<img src="https://github.com/LEUNSU/raspberrypi-toyproject-2024/blob/main/images/rb010.jpg?raw=true">
+<img src="https://github.com/LEUNSU/raspberrypi-toyproject-2024/blob/main/images/rb010.jpg?raw=true" width='730'>
 
 **소프트웨어**
 
