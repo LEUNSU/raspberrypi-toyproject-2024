@@ -13,7 +13,7 @@
 ## 특징
 - 사용 모듈 : LED, 피에조 부저, 온습도 센서
 
-<img src="https://raw.githubusercontent.com/LEUNSU/raspberrypi-toyproject-2024/main/images/rb013.png" width='300'>
+<img src="https://github.com/LEUNSU/raspberrypi-toyproject-2024/blob/main/images/rb013.jpg?raw=true" width='300'>
 
 - QtDesigner로 UI 설계 
 
@@ -30,7 +30,7 @@
 
 **하드웨어**
 
-<img src="https://raw.githubusercontent.com/LEUNSU/raspberrypi-toyproject-2024/main/images/rb010.png" width='300'>
+<img src="https://github.com/LEUNSU/raspberrypi-toyproject-2024/blob/main/images/rb010.jpg?raw=true" width='300'>
 
 **소프트웨어**
 
@@ -38,7 +38,7 @@
 
 ![LED기능](https://raw.githubusercontent.com/LEUNSU/raspberrypi-toyproject-2024/main/images/rb007.png)
     
-    - QSlider를 움직이면서 LED 밝기 조절 
+    - QSlider를 움직이면서 LED 밝기 조절(오른쪽으로 움직일수록 밝아짐)
 
 - 알람기능
 
